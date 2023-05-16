@@ -1,0 +1,9 @@
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: ..\..\..\Driver\Source\VPOST\N9H26_VPOST_HANNSTAR_HSD043I9W1_16B.c
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: ..\..\..\Driver\Include\wblib.h
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: ..\..\..\Driver\Include\N9H26_reg.h
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: ..\..\..\Driver\Include\wberrcode.h
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: ..\..\..\Driver\Include\wbio.h
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: ..\..\..\Driver\Include\wbtypes.h
+.\vpost_data\debugrel\n9h26_vpost_hannstar_hsd043i9w1_16b.o: ..\..\..\Driver\Include\N9H26_VPOST.h

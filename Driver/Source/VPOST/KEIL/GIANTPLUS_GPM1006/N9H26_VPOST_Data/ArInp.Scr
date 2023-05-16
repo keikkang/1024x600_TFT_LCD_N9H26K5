@@ -1,0 +1,4 @@
+--create .\N9H26_VPOST_Data\N9H26_GIANTPLUS_GPM1006D.lib
+.\n9h26_vpost_data\n9h26_vpost.o
+.\n9h26_vpost_data\n9h26_vpost_driver.o
+.\n9h26_vpost_data\n9h26_vpost_giantplus_gpm1006d0.o

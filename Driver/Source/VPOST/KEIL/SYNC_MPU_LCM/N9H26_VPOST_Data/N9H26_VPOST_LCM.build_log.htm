@@ -1,0 +1,59 @@
+<html>
+<body>
+<pre>
+<h1>킮ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.27.1.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: K K, K, LIC=GMZI6-D7VYF-NNCAF-64RXZ-D2AW9-0ALG2
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.36.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARM.DLL V5.36.0.0
+Dialog DLL:      DARMATS9.DLL V1.22.0.4 
+<h2>Project:</h2>
+C:\Users\kangk\OneDrive\Desktop\새 폴더\N9H26_emWin_NonOS-master\BSP\Driver\Source\VPOST\KEIL\SYNC_MPU_LCM\SYNC_MPU_LCM.uvproj
+Project File Date:  05/11/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'SYNC_MPU_LCM'
+compiling N9H26_VPOST.c...
+..\..\N9H26_VPOST.c(121): warning:  #940-D: missing return statement at end of non-void function "vpostLCMInit" 
+  }
+..\..\N9H26_VPOST.c(226): warning:  #940-D: missing return statement at end of non-void function "vpostLCMDeinit" 
+  }
+..\..\N9H26_VPOST.c: 2 warnings, 0 errors
+compiling N9H26_VPOST_LCM_Init.c...
+..\..\N9H26_VPOST_LCM_Init.c(510): warning:  #188-D: enumerated type mixed with another type
+  		psMpuLcmInit->eBusType = *ptr;
+..\..\N9H26_VPOST_LCM_Init.c: 1 warning, 0 errors
+compiling N9H26_VPOST_Driver.c...
+compiling N9H26_VPOST_Mpu_LCM.c...
+..\..\N9H26_VPOST_Mpu_LCM.c(59): warning:  #177-D: variable "nFlag"  was declared but never referenced
+  	INT32 nFlag;
+..\..\N9H26_VPOST_Mpu_LCM.c(193): warning:  #188-D: enumerated type mixed with another type
+  	u32PLLclk = sysGetPLLOutputHz(eUPLL, u32Clkin);		// CLK_IN = 12 MHz
+..\..\N9H26_VPOST_Mpu_LCM.c(21): warning:  #177-D: function "GetPLLOutputKhz"  was declared but never referenced
+  static UINT32 GetPLLOutputKhz(E_CLK eSysPll, UINT32 u32FinKHz )
+..\..\N9H26_VPOST_Mpu_LCM.c: 3 warnings, 0 errors
+compiling N9H26_VPOST_Sync_LCM.c...
+..\..\N9H26_VPOST_Sync_LCM.c(399): warning:  #188-D: enumerated type mixed with another type
+  	u32PLLclk = sysGetPLLOutputHz(eUPLL, u32Clkin);		// CLK_IN = 12 MHz
+..\..\N9H26_VPOST_Sync_LCM.c(101): warning:  #177-D: function "SpiDataPortOutput"  was declared but never referenced
+  static void SpiDataPortOutput(void)
+..\..\N9H26_VPOST_Sync_LCM.c: 2 warnings, 0 errors
+creating Library...
+After Build - User command #1: cmd /C move "C:\Users\kangk\OneDrive\Desktop\새 폴더\N9H26_emWin_NonOS-master\BSP\Driver\Source\VPOST\KEIL\SYNC_MPU_LCM\N9H26_VPOST_Data\N9H26_VPOST_LCM.lib" ..\..\..\..\..\Library\IPLib
+        1개 파일을 이동했습니다.
+".\N9H26_VPOST_Data\N9H26_VPOST_LCM.lib" - 0 Error(s), 8 Warning(s).
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>

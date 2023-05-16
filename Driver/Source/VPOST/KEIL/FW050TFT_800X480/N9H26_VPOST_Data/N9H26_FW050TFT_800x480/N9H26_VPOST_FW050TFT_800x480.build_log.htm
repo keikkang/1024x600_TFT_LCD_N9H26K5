@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>킮ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.27.1.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: K K, K, LIC=GMZI6-D7VYF-NNCAF-64RXZ-D2AW9-0ALG2
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.36.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARM.DLL V5.36.0.0
+Dialog DLL:      DARMATS9.DLL V1.22.0.4
+Target DLL:      Segger\JLTAgdi.dll V1.61.0.0
+Dialog DLL:      TARMATS9.DLL V1.21.0.0
+ 
+<h2>Project:</h2>
+C:\Users\kangk\OneDrive\Desktop\새 폴더\N9H26_emWin_NonOS-master\BSP\Driver\Source\VPOST\KEIL\FW050TFT_800X480\FW050TFT_800x480.uvproj
+Project File Date:  05/12/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'N9H26_FW050TFT_800x480'
+compiling N9H26_VPOST_FW050TFT_800x480.c...
+..\..\N9H26_VPOST_FW050TFT_800x480.c(65): warning:  #188-D: enumerated type mixed with another type
+  	u32PLLclk = sysGetPLLOutputHz(eUPLL, u32Clkin);		// CLK_IN = 12 MHz
+..\..\N9H26_VPOST_FW050TFT_800x480.c(128): warning:  #188-D: enumerated type mixed with another type
+  	vpostSetFrameBuffer_DataType(plcdformatex->ucVASrcFormat);
+..\..\N9H26_VPOST_FW050TFT_800x480.c(163): warning:  #1-D: last line of file ends without a newline
+  #endif    //HAVE_FW050TFT_800x480
+..\..\N9H26_VPOST_FW050TFT_800x480.c(18): warning:  #177-D: variable "g_nScreenWidth"  was declared but never referenced
+  static UINT32 g_nScreenWidth;
+..\..\N9H26_VPOST_FW050TFT_800x480.c(19): warning:  #177-D: variable "g_nScreenHeight"  was declared but never referenced
+  static UINT32 g_nScreenHeight;
+..\..\N9H26_VPOST_FW050TFT_800x480.c(29): warning:  #177-D: function "BacklightControl"  was declared but never referenced
+  static void BacklightControl(int OnOff)
+..\..\N9H26_VPOST_FW050TFT_800x480.c: 6 warnings, 0 errors
+creating Library...
+After Build - User command #1: cmd /C move "C:\Users\kangk\OneDrive\Desktop\새 폴더\N9H26_emWin_NonOS-master\BSP\Driver\Source\VPOST\KEIL\FW050TFT_800X480\N9H26_VPOST_Data\N9H26_FW050TFT_800x480\N9H26_VPOST_FW050TFT_800x480.lib" ..\..\..\..\..\Library\IPLib
+        1개 파일을 이동했습니다.
+".\N9H26_VPOST_Data\N9H26_FW050TFT_800x480\N9H26_VPOST_FW050TFT_800x480.lib" - 0 Error(s), 6 Warning(s).
+Build Time Elapsed:  00:00:00
+</pre>
+</body>
+</html>

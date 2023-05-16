@@ -1,0 +1,4 @@
+--create .\N9H26_VPOST_Data\N9H26_FW050TFT_800x480\N9H26_VPOST_FW050TFT_800x480.lib
+.\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost.o
+.\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_driver.o
+.\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_fw050tft_800x480.o

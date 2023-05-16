@@ -1,0 +1,29 @@
+Dependencies for Project 'FW050TFT_800x480', Target 'N9H26_FW050TFT_800x480': (DO NOT MODIFY !)
+F (..\..\N9H26_VPOST.c)(0x61839C6A)(-c --cpu ARM926EJ-S -g -O0 --apcs=interwork -I ..\..\..\..\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Toshiba-D__UVISION_VERSION="527" -D__HAVE_FW050TFT_800x480__-o .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost.o --omf_browse .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost.crf --depend .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost.d)
+I (..\..\..\..\Include\wblib.h)(0x61839C6A)
+I (..\..\..\..\Include\N9H26_reg.h)(0x61839C6A)
+I (..\..\..\..\Include\wberrcode.h)(0x61839C6A)
+I (..\..\..\..\Include\wbio.h)(0x61839C6A)
+I (..\..\..\..\Include\wbtypes.h)(0x61839C6A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60251564)
+I (..\..\..\..\Include\N9H26_VPOST.h)(0x61839C6A)
+F (..\..\N9H26_VPOST_Driver.c)(0x61839C6A)(-c --cpu ARM926EJ-S -g -O0 --apcs=interwork -I ..\..\..\..\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Toshiba-D__UVISION_VERSION="527" -D__HAVE_FW050TFT_800x480__-o .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_driver.o --omf_browse .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_driver.crf --depend .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_driver.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60251564)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x60251564)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025156E)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x60251568)
+I (..\..\..\..\Include\wblib.h)(0x61839C6A)
+I (..\..\..\..\Include\N9H26_reg.h)(0x61839C6A)
+I (..\..\..\..\Include\wberrcode.h)(0x61839C6A)
+I (..\..\..\..\Include\wbio.h)(0x61839C6A)
+I (..\..\..\..\Include\wbtypes.h)(0x61839C6A)
+I (..\..\..\..\Include\N9H26_VPOST.h)(0x61839C6A)
+F (..\..\N9H26_VPOST_FW050TFT_800x480.c)(0x645DFF79)(-c --cpu ARM926EJ-S -g -O0 --apcs=interwork -I ..\..\..\..\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Toshiba-D__UVISION_VERSION="527" -D__HAVE_FW050TFT_800x480__-o .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_fw050tft_800x480.o --omf_browse .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_fw050tft_800x480.crf --depend .\n9h26_vpost_data\n9h26_fw050tft_800x480\n9h26_vpost_fw050tft_800x480.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60251564)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x60251564)
+I (..\..\..\..\Include\N9H26_VPOST.h)(0x61839C6A)
+I (..\..\..\..\Include\wbtypes.h)(0x61839C6A)
+I (..\..\..\..\Include\wbio.h)(0x61839C6A)
+I (..\..\..\..\Include\wblib.h)(0x61839C6A)
+I (..\..\..\..\Include\N9H26_reg.h)(0x61839C6A)
+I (..\..\..\..\Include\wberrcode.h)(0x61839C6A)

@@ -1,0 +1,6 @@
+--create .\N9H26_VPOST_Data\N9H26_VPOST_LCM.lib
+.\n9h26_vpost_data\n9h26_vpost.o
+.\n9h26_vpost_data\n9h26_vpost_driver.o
+.\n9h26_vpost_data\n9h26_vpost_lcm_init.o
+.\n9h26_vpost_data\n9h26_vpost_mpu_lcm.o
+.\n9h26_vpost_data\n9h26_vpost_sync_lcm.o
