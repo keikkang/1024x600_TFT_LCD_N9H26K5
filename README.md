@@ -29,7 +29,7 @@ Just simple VPOST test code 4 HightekVision
 ![image](https://github.com/keikkang/1024x600_TFT_LCD_N9H26K5/assets/108905975/2ef665aa-dfcb-45ea-9b75-64bf9a68e153)
 
 ### Turbo Writer Setting
-![image](https://user-images.githubusercontent.com/108905975/223366356-98804788-1ce1-4e3b-bc27-db8b5f110d64.png)
+![image](https://github.com/keikkang/1024x600_TFT_LCD_N9H26K5/assets/108905975/3d6ba7d8-4047-4e20-8908-95d2b884c25d)
 |N|Name|Description|Note|
 |---|---|---|---|
 |1|N9H26_NANDLoader_240MHz_Fast.bin|for NAND flash booting|
